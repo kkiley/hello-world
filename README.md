@@ -2,4 +2,4 @@
 Review github
 
 I'm a former IT worker
-with coding experience from Fortran to Python
+with coding experience in Fortran to Python
